@@ -722,21 +722,6 @@ lsof -ti:8080 | xargs kill -9
 
 ---
 
-## 🧑‍💻 Contributors
-
-**Development Team - FPT University SWP391 Project (Fall 2025)**
-
-| Member | Student ID | Role | Responsibilities |
-|--------|------------|------|------------------|
-| **[Vu Duc Giang]** | DE190556 | Project Lead & Backend Developer | System architecture, authentication, core servlets |
-| **[Huynh Quang Huy]** | SE123457 | Frontend Developer | UI/UX design, JSP pages, CSS styling |
-| **[Dang Dong Hoa]** | SE123458 | Database Administrator | Database design, SQL optimization, data migration |
-| **[Member 4]** | SE123459 | QA Engineer | Testing strategy, unit tests, coverage reports |
-| **[Member 5]** | SE123460 | DevOps & Integration | Deployment, CI/CD, documentation |
-
-> **Note:** This is a university project developed as part of the Software Project (SWP391) course at FPT University.
-
----
 
 ## 📞 Contact & Support
 
